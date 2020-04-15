@@ -1,0 +1,105 @@
+,Neighborhood,District,Latitude,Longitude
+1,Broadview,North Seattle,47.7223199,-122.3604067
+2,Bitter Lake,North Seattle,47.7262358,-122.3487639
+3,"North Beach, Blue Ridge",North Seattle,47.6962103,-122.392362
+4,Crown Hill,North Seattle,47.6947154,-122.3714586
+5,Greenwood,North Seattle,47.6909806,-122.3548773
+7,Haller Lake,Northgate,47.7197478,-122.3337513
+8,Pinehurst,Northgate,47.9359296,-122.2056888
+9,North College Park,Northgate,47.6607729,-122.2914971
+10,Maple Leaf,Northgate,47.6939869,-122.322905
+12,Cedar Park,Lake City,47.7256535,-122.2859597
+13,Matthews Beach,Lake City,47.69692655,-122.2727236
+14,Meadowbrook,Lake City,47.7056157,-122.2881579
+15,Olympic Hills,Lake City,47.7299,-122.2991
+16,Victory Heights,Lake City,47.707598,-122.3076269
+17,Wedgwood,North Seattle,47.6902531,-122.2908109
+18,View Ridge,North Seattle,47.6795427,-122.2740144
+19,Sand Point,North Seattle,47.6823594,-122.2643122
+20,Roosevelt,North Seattle,47.6773046,-122.3138071
+21,Ravenna,North Seattle,47.6756537,-122.2976262
+22,Bryant,North Seattle,47.6752333,-122.2834935
+23,Windermere,North Seattle,47.6709318,-122.2617917
+24,Hawthorne Hills,North Seattle,47.6720428,-122.2754032
+25,Laurelhurst,North Seattle,47.6634317,-122.2770698
+26,University District,North Seattle,47.6612984,-122.3131523
+27,University Village,University District,47.6627401,-122.2989251
+28,Wallingford,North Seattle,47.6594631,-122.3343417
+29,Northlake,Lake Union,47.65434935,-122.3242764
+30,Green Lake,North Seattle,47.67828405,-122.3385487
+31,Fremont,North Seattle,47.6504529,-122.3499861
+32,Phinney Ridge,North Seattle,47.6721306,-122.3540306
+34,West Woodland,Ballard,47.6759733,-122.3474992
+35,Whittier Heights,Ballard,47.683297,-122.3714487
+36,Adams,Ballard,47.565271,-122.2795457
+37,Sunset Hill,Ballard,47.6752172,-122.3984484
+38,Loyal Heights,Ballard,47.6887088,-122.3929073
+41,Lawton Park,Magnolia,47.6563294,-122.4002959
+42,Briarcliff,Magnolia,47.6481511,-122.4076121
+43,Southeast Magnolia,Magnolia,47.6468106,-122.399489
+44,Interbay,Central Seattle,47.6407418,-122.3763394
+46,North Queen Anne,Queen Anne,47.6394805,-122.3607453
+47,East Queen Anne,Queen Anne,47.6394805,-122.3607453
+48,Lower Queen Anne,Queen Anne,47.622338,-122.3557559
+49,West Queen Anne,Queen Anne,47.6394805,-122.3607453
+51,"Portage Bay, Roanoke",Capitol Hill,47.64748415,-122.3192863
+52,Broadway,Capitol Hill,47.606293,-122.3207937
+53,"Pike-Pine Corridor, Pike/Pine",Capitol Hill,47.6038321,-122.3300624
+54,Montlake,Capitol Hill,47.6414082,-122.3030441
+55,Stevens,Capitol Hill,47.6543494,-122.3159962
+56,Interlaken,Capitol Hill,47.63751375,-122.3107814
+57,Madison Valley,Capitol Hill,47.6199156,-122.2956143
+58,Renton Hill,Capitol Hill,47.535377,-122.2804456
+60,Broadmoor,Madison Park,47.6351699,-122.2897114
+62,"South Lake Union, Seattle",Lake Union,47.6231611,-122.3383816
+63,"Cascade, Seattle",South Lake Union,47.6201851,-122.3339001
+64,Westlake,Lake Union,47.6118174,-122.3361891
+65,Eastlake,Lake Union,47.6431448,-122.3261721
+67,Denny Triangle,Downtown,47.6185927,-122.3570345
+68,Belltown,Downtown,47.6132311,-122.3453607
+69,Pike-Market,Downtown,47.614463,-122.3340886
+70,Central Business District,Downtown,47.6095317,-122.3362895
+71,First Hill,Downtown,47.6093053,-122.3249839
+72,Pioneer Square,Downtown,47.60213935,-122.3339274
+73,International District,Downtown,47.5984962,-122.3279998
+74,Yesler Terrace,Downtown,47.6012658,-122.3191595
+75,Central Waterfront,Downtown,47.6038321,-122.3300624
+76,West Edge,Downtown,47.6063396,-122.337632
+78,Mann,Central Area,47.60883185,-122.3374192
+80,Cherry Hill & Squire Park,Minor,47.6265943,-122.332267
+82,Judkins Park,Atlantic,47.59029595,-122.3045132
+84,Madrona Valley,Madrona,47.6127915,-122.2912264
+86,Washington Park,Central Area,47.6275672,-122.2874862
+87,Leschi,Central Area,47.6005352,-122.2918664
+90,Mount Baker,Rainier Valley,47.5785522,-122.2895262
+91,Columbia City,Rainier Valley,47.5579124,-122.2852162
+92,Hillman City,Rainier Valley,47.5524351,-122.2749152
+93,Brighton,Rainier Valley,47.5462102,-122.2756794
+94,"Dunlap, Othello",Rainier Valley,47.5314881,-122.2695679
+95,"Rainier Beach, Atlantic City Beach",Rainier Valley,47.5224207,-122.2793976
+96,"Rainier View, Lakeridge",Rainier Valley,47.5750765,-121.873605
+98,Lakewood,Seward Park,47.5631545,-122.2717906
+100,North Beacon Hill,Beacon Hill,47.5775857,-122.3099603
+101,Mid Beacon Hill,Beacon Hill,47.57925785,-122.3115977
+102,"Holly Park, NewHolly",Beacon Hill,47.5416501,-122.291929
+103,"South Beacon Hill, Van Asselt",Beacon Hill,47.5775857,-122.3099603
+105,SoDo,Industrial District,47.5812603,-122.3274051
+106,Harbor Island,Industrial District,47.5798609,-122.3518815
+107,Georgetown,South End,47.5489326,-122.3300573
+108,South Park,South End,47.5264675,-122.3229131
+110,Alki Point,West Seattle,47.5762895,-122.4207968
+111,"North Admiral, Admiral District",West Seattle,47.5811953,-122.3865457
+112,"Junction, West Seattle Junction, Alaska Junction",West Seattle,47.544872,-122.3872148
+113,"Seaview, Mee-Kwa-Mooks",West Seattle,47.6712824,-122.4052826
+114,Fairmount Park,West Seattle,47.5798512,-122.3822514
+115,Genesee,West Seattle,47.5648206,-122.3679048
+116,Gatewood,West Seattle,47.5365596,-122.385326
+117,Fauntleroy,West Seattle,47.5223995,-122.3934168
+118,Arbor Heights,West Seattle,47.512899,-122.3813585
+120,North Delridge,Delridge,47.5521233,-122.3638741
+121,Pigeon Point,Delridge,47.5711631,-122.3592519
+122,Riverview,Delridge,47.5393827,-122.3491887
+123,Highland Park,Delridge,47.528432,-122.3526261
+124,South Delridge,Delridge,47.5521233,-122.3638741
+125,Roxhill,Delridge,47.5192141,-122.3685985
+126,High Point,Delridge,47.5384514,-122.3773869
