@@ -1,7 +1,7 @@
 ,Neighborhood,District,Latitude,Longitude
 1,Broadview,North Seattle,47.7223199,-122.3604067
 2,Bitter Lake,North Seattle,47.7262358,-122.3487639
-3,"North Beach, Blue Ridge",North Seattle,47.6962103,-122.392362
+3,North Beach,North Seattle,47.6962103,-122.392362
 4,Crown Hill,North Seattle,47.6947154,-122.3714586
 5,Greenwood,North Seattle,47.6909806,-122.3548773
 7,Haller Lake,Northgate,47.7197478,-122.3337513
@@ -22,7 +22,6 @@
 23,Windermere,North Seattle,47.6709318,-122.2617917
 24,Hawthorne Hills,North Seattle,47.6720428,-122.2754032
 25,Laurelhurst,North Seattle,47.6634317,-122.2770698
-26,University District,North Seattle,47.6612984,-122.3131523
 27,University Village,University District,47.6627401,-122.2989251
 28,Wallingford,North Seattle,47.6594631,-122.3343417
 29,Northlake,Lake Union,47.65434935,-122.3242764
@@ -42,17 +41,16 @@
 47,East Queen Anne,Queen Anne,47.6394805,-122.3607453
 48,Lower Queen Anne,Queen Anne,47.622338,-122.3557559
 49,West Queen Anne,Queen Anne,47.6394805,-122.3607453
-51,"Portage Bay, Roanoke",Capitol Hill,47.64748415,-122.3192863
+51,Portage Bay,Capitol Hill,47.64748415,-122.3192863
 52,Broadway,Capitol Hill,47.606293,-122.3207937
-53,"Pike-Pine Corridor, Pike/Pine",Capitol Hill,47.6038321,-122.3300624
+53,Pike-Pine Corridor,Capitol Hill,47.6038321,-122.3300624
 54,Montlake,Capitol Hill,47.6414082,-122.3030441
 55,Stevens,Capitol Hill,47.6543494,-122.3159962
 56,Interlaken,Capitol Hill,47.63751375,-122.3107814
 57,Madison Valley,Capitol Hill,47.6199156,-122.2956143
 58,Renton Hill,Capitol Hill,47.535377,-122.2804456
 60,Broadmoor,Madison Park,47.6351699,-122.2897114
-62,"South Lake Union, Seattle",Lake Union,47.6231611,-122.3383816
-63,"Cascade, Seattle",South Lake Union,47.6201851,-122.3339001
+63,Cascade,South Lake Union,47.6201851,-122.3339001
 64,Westlake,Lake Union,47.6118174,-122.3361891
 65,Eastlake,Lake Union,47.6431448,-122.3261721
 67,Denny Triangle,Downtown,47.6185927,-122.3570345
@@ -76,21 +74,21 @@
 92,Hillman City,Rainier Valley,47.5524351,-122.2749152
 93,Brighton,Rainier Valley,47.5462102,-122.2756794
 94,"Dunlap, Othello",Rainier Valley,47.5314881,-122.2695679
-95,"Rainier Beach, Atlantic City Beach",Rainier Valley,47.5224207,-122.2793976
-96,"Rainier View, Lakeridge",Rainier Valley,47.5750765,-121.873605
+95,Rainier Beach,Rainier Valley,47.5224207,-122.2793976
+96,Rainier View,Rainier Valley,47.5750765,-121.873605
 98,Lakewood,Seward Park,47.5631545,-122.2717906
 100,North Beacon Hill,Beacon Hill,47.5775857,-122.3099603
 101,Mid Beacon Hill,Beacon Hill,47.57925785,-122.3115977
-102,"Holly Park, NewHolly",Beacon Hill,47.5416501,-122.291929
-103,"South Beacon Hill, Van Asselt",Beacon Hill,47.5775857,-122.3099603
+102,Holly Park,Beacon Hill,47.5416501,-122.291929
+103,South Beacon Hill,Beacon Hill,47.5775857,-122.3099603
 105,SoDo,Industrial District,47.5812603,-122.3274051
 106,Harbor Island,Industrial District,47.5798609,-122.3518815
 107,Georgetown,South End,47.5489326,-122.3300573
 108,South Park,South End,47.5264675,-122.3229131
 110,Alki Point,West Seattle,47.5762895,-122.4207968
-111,"North Admiral, Admiral District",West Seattle,47.5811953,-122.3865457
-112,"Junction, West Seattle Junction, Alaska Junction",West Seattle,47.544872,-122.3872148
-113,"Seaview, Mee-Kwa-Mooks",West Seattle,47.6712824,-122.4052826
+111,North Admiral,West Seattle,47.5811953,-122.3865457
+112,Junction,West Seattle,47.544872,-122.3872148
+113,Seaview,West Seattle,47.6712824,-122.4052826
 114,Fairmount Park,West Seattle,47.5798512,-122.3822514
 115,Genesee,West Seattle,47.5648206,-122.3679048
 116,Gatewood,West Seattle,47.5365596,-122.385326
